@@ -1,6 +1,5 @@
 name: "bazel-contrib-supply-chain"
 description: "Supply-chain rules for Bazel"
-
 third_party {
   license_type: NOTICE
   last_upgrade_date {
@@ -11,6 +10,7 @@ third_party {
   identifier {
     type: "Git"
     value: "https://github.com/bazel-contrib/supply-chain"
-    version: "v0.0.2"
+    version: "16d3636503939b77c00c832e2546c98497eb8ab3"
+    closest_version: "v0.0.2"
   }
 }
